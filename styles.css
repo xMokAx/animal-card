@@ -1,0 +1,43 @@
+/* add your CSS here */
+
+#card {
+    font-family: sans-serif;
+    width: 300px;
+    padding: 10px;
+    background-color: #888;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 6px 10px 3px 3px rgb(200, 200, 200);
+    color: black;
+}
+
+.fig {
+    margin: 0;
+    text-align: center;
+    font-size: 12px;
+}
+
+.image {
+    border-radius: 10px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+#info {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.infoList {
+    padding-left: 0;
+    list-style: none;
+}
+
+.infoList span {
+    font-weight: bold;
+}
