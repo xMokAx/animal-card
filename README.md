@@ -1,6 +1,6 @@
 # animal-card
-Udacity Front-End Web Developer Nanodegree Program.
+_Udacity Front-End Web Developer Nanodegree Program._
 
-you can click the link below to view the card:
+You can click the link below to view the **card**:
 
-https://xmokax.github.io/animal-card/
+[**animal-card**](https://xmokax.github.io/animal-card/)
